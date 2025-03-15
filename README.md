@@ -17,7 +17,7 @@ This is a Next.js application featuring a login page built with MUI components. 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/kanthan2000/login-nestjs.git
    cd your-repo
    ```
 2. Install dependencies:
