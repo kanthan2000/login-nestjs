@@ -18,7 +18,7 @@ This is a Next.js application featuring a login page built with MUI components. 
 1. Clone the repository:
    ```sh
    git clone https://github.com/kanthan2000/login-nestjs.git
-   cd your-repo
+   cd login-nestjs
    ```
 2. Install dependencies:
    ```sh
@@ -46,7 +46,7 @@ This is a Next.js application featuring a login page built with MUI components. 
 
 ### Login Page
 
-- Enter username and password
+- Enter username and password (username:admin & password:password)
 - Form validation using Formik
 - On incorrect credentials, a Snackbar error message appears
 - On correct credentials, the user is redirected to the home page
